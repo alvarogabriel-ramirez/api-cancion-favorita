@@ -4,8 +4,8 @@ const PORT = 3000;
 
 app.get('/', (req, res) => {
   res.json({
-    nombre: "Byron Estuardo Solís González",
-    cancion_favorita: "NOMBRE_DE_TU_CANCIÓN"
+    nombre: "Alvaro Gabriel Ramirez Alvarez",
+    album_favorito: "NOMBRE_DE_TU_ÁLBUM"
   });
 });
 
